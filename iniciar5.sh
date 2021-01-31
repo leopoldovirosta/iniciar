@@ -26,7 +26,7 @@ function processing() {
 
 function uiflow() {
   cd ~/uiflow-desktop-ide/bin
-  ./uiflow-desktop-ide  
+  sudo ./uiflow-desktop-ide  
 }
 
 # 0 si se responde positivamente y 1 negativamente
